@@ -1,0 +1,23 @@
+.bucket{
+    margin-top:60vh; 
+    max-width:50%;
+    max-height:40vmin; 
+    position:absolute; 
+}
+
+.coin{
+    position: absolute;
+    top:0;
+    max-width:20%;
+    max-height:10vmin; 
+    transition: 5s ease;
+    height:2100px;
+    content:url("https://th.bing.com/th/id/R.697be1a4e7956bae606b302d8ce411f0?rik=cfumBpritavptw&riu=http%3a%2f%2fvignette3.wikia.nocookie.net%2fnippuru%2fimages%2fd%2fd5%2fChicken_nuggets.jpg%2frevision%2flatest%3fcb%3d20151224043425&ehk=aE0gyTodUDbC8mP8HNcSVLwbm%2biH2qY2g0mBfvJuMAY%3d&risl=&pid=ImgRaw&r=0");
+    visibility: visible;
+
+}
+
+.coins{
+    width:100%;
+    height:100%;
+}
